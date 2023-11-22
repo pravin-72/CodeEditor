@@ -41,7 +41,3 @@ This project is a lightweight and customizable code editor that provides a seaml
 ## Contributions
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or submit a pull request.
-
-## License
-
-This code editor is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the license terms.
