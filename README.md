@@ -26,7 +26,11 @@ This project is a lightweight and customizable code editor that provides a seaml
 - **HTML**: Structuring the web page.
 - **CSS**: Styling the code editor and toggle window for an aesthetically pleasing interface.
 - **JavaScript**: Implementing the core functionality, including code editing and live output toggling.
-
+  
+ ## Live Demo
+- Experience the project live:
+- Netbook - Replicated Design on Netlify(https://ownonlineeditor.netlify.app/)
+  
 ## Usage
 
 1. Clone the repository to your local machine.
