@@ -29,19 +29,17 @@ This project is a lightweight and customizable code editor that provides a seaml
   
  ## Live Demo
 - Experience the project live:
-- Netbook - Replicated Design on Netlify(https://ownonlineeditor.netlify.app/)
+- Netbook - Replicated Design on Netlify
+- Check out the live version of the webpage here:  
+[Code Editor - Hosted on Netlify](https://ownonlineeditor.netlify.app/)  
   
 ## Usage
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/code-editor.git
+   git clone https://github.com/pravin-72/CodeEditor.git
    ```
 
 2. Open `index.html` in your preferred web browser.
 
 3. Start coding! Use the toggle button to switch between code view and live output.
-
-## Contributions
-
-Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or submit a pull request.
